@@ -6,4 +6,6 @@
 
 Welcome to your AI migration platform for applications.
 
-![Icon](./images/icons/home.png)
+![Icon](./images/icons/home.png){: style="width: 24px; height: 24px;"}
+
+![Icon](./images/icons/account.png){: style="width: 24px; height: 24px;"}
