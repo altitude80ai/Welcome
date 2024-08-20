@@ -16,14 +16,12 @@ Welcome to your AI migration platform for applications.
     <img src="./images/icons/account.png" alt="Icon" width="48" height="48" />
     Future Use
     Reserved for future AI functionality
-</span>
-
+</span><br>
 <span>
     <img src="./images/icons/route.png" alt="Icon" width="48" height="48" />
     Future Use
     Reserved for future AI functionality
-</span>
-
+</span><br>
 <span>
     <img src="./images/icons/widgets.png" alt="Icon" width="48" height="48" />
     Future Use
