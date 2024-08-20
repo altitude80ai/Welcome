@@ -10,4 +10,4 @@ Welcome to your AI migration platform for applications.
 
 ![Icon](./images/icons/account.png){: style="width: 24px; height: 24px;"}
 
-<img src="./images/icons/account.png" alt="Icon" width="24" height="24" />
+<img src="./images/icons/account.png" alt="Icon" width="48" height="48" />
