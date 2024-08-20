@@ -6,13 +6,26 @@
 
 Welcome to your AI migration platform for applications.
 
-![Icon](./images/icons/home.png){: style="width: 24px; height: 24px;"}
-
-![Icon](./images/icons/account.png){: style="width: 24px; height: 24px;"}
+<span>
+    <img src="./images/icons/home.png" alt="Icon" width="48" height="48" />
+    Home  
+    Select this option to return to the AI editor
+</span>
 
 <span>
     <img src="./images/icons/account.png" alt="Icon" width="48" height="48" />
-    this is s a test    ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    cccccccccccccccccccccccccccccccccc
-    ddddddddddddddddddddddddd
+    Future Use
+    Reserved for future AI functionality
+</span>
+
+<span>
+    <img src="./images/icons/route.png" alt="Icon" width="48" height="48" />
+    Future Use
+    Reserved for future AI functionality
+</span>
+
+<span>
+    <img src="./images/icons/widgets.png" alt="Icon" width="48" height="48" />
+    Future Use
+    Reserved for future AI functionality
 </span>
