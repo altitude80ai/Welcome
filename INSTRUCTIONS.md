@@ -24,12 +24,12 @@ Welcome to your AI migration platform for applications.
 
     Reserved for future AI functionality
 </span><br>
-<span>
+<p>
     <img src="./images/icons/analyze.png" alt="Icon" width="48" height="48" />
     Future Use
 
     Generate a set of stats on programs in the repo related to extracted rules, non-rules and data elements referenced by the code
-</span><br>
+</p><br>
 <span>
     <img src="./images/icons/widgets.png" alt="Icon" width="48" height="48" />
     Future Use
