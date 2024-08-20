@@ -24,4 +24,4 @@ Welcome to your AI migration platform for applications.
 | <img src="./images/icons/renew.png" alt="Icon" width="48" height="48" /> | **Select Repo**<br>Identify the github repo for migrations |
 | <img src="./images/icons/objects.png" alt="Icon" width="48" height="48" /> | **Graph**<br>Create a graph of the repo showing essential relationships between components|
 | <img src="./images/icons/file.png" alt="Icon" width="48" height="48" /> | **Text Edit**<br>Examine, edit, review and approve AI generated documents |
-| <img src="./images/icons/expire.png" alt="Icon" width="48" height="48" /> | **Expired**<br>A fun little timer |
+| <img src="./images/icons/expired.png" alt="Icon" width="48" height="48" /> | **Expired**<br>A fun little timer |
